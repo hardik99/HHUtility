@@ -13,8 +13,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        let Utility = HHUtility()
-        Utility.showAlertWithTitleMsg(self, title: "Test", message: "This is alert message.")
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
