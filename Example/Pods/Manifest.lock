@@ -1,5 +1,5 @@
 PODS:
-  - HHUtility (0.1.0)
+  - HHUtility (0.1.1)
 
 DEPENDENCIES:
   - HHUtility (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  HHUtility: 91e4cd6302c12213807743c57e752c3f87665df9
+  HHUtility: f9485ed59e7c04473f98e17f2e49b5a8ae1f322b
 
 PODFILE CHECKSUM: 75d82228dc6aae361e773f94738d06427fbd7987
 
