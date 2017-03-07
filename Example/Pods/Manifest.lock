@@ -1,0 +1,16 @@
+PODS:
+  - HHUtility (0.1.0)
+
+DEPENDENCIES:
+  - HHUtility (from `../`)
+
+EXTERNAL SOURCES:
+  HHUtility:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HHUtility: 91e4cd6302c12213807743c57e752c3f87665df9
+
+PODFILE CHECKSUM: 75d82228dc6aae361e773f94738d06427fbd7987
+
+COCOAPODS: 1.1.1
